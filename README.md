@@ -10,7 +10,7 @@
 ![visitors](http://antzuhl.cn:4000/get/@ManJiis.readme)
 --->
 
-<img align="right" alt="GIF" src="aa18972bd40735fafa97c17592510fb30e240892.gif" />
+<img align="right" alt="hello world" width="350" height="350" src="helloworld.gif" />
 
 - 👋 Hi, I’m @ManJiis
 - 👀 I’m interested in Java.
@@ -22,8 +22,8 @@
 <!---
 [![ManJiis's github info](https://github-readme-stats.vercel.app/api?username=ManJiis&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
 --->
-
-[![ManJi's github stats](https://github-readme-stats.vercel.app/api?username=ManJiis&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+<!--- 主题 &theme=radical --->
+[![ManJi's github stats](https://github-readme-stats.vercel.app/api?username=ManJiis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!---
 <h4 align="left">Tech Stack and Tools:</h4>
