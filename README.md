@@ -10,7 +10,7 @@
 ![visitors](http://antzuhl.cn:4000/get/@ManJiis.readme)
 --->
 
-<img align="right" alt="hello world" width="350" height="350" src="helloworld.gif" />
+<img align="right" alt="hello world" width="300" height="300" src="helloworld.gif" />
 
 - 👋 Hi, I’m @ManJiis
 - 👀 I’m interested in Java.
