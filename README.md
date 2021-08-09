@@ -13,10 +13,7 @@
 <img align="right" alt="hello world" width="300" height="300" src="helloworld.gif" />
 
 - 👋 Hi, I’m @ManJiis
-- 👀 I’m interested in Java.
-- 🌱 ~~I’m currently learning Golang,Frontend,UE4~~
-- 💞️ ~~I’m looking to collaborate on ...~~
-- 📫 ~~How to reach me ...~~
+- 👀 Java developer from Wuhan, China 🇨🇳.
 
 <!--- 渐变 --->
 <!---
