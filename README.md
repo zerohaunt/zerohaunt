@@ -13,7 +13,7 @@
 <img align="right" alt="hello world" width="300" height="300" src="helloworld.gif" />
 
 - 👋 Hi, I’m @ManJiis
-- 👀 Java developer from Shenzhen, China 🇨🇳.
+- 👀 Java developer from Shenzhen, China.
 
 <!--- 渐变 --->
 <!---
