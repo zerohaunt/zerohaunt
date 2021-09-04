@@ -6,11 +6,10 @@
 <!--- 浏览量 --->
 # 🙋‍♂️ Hello ![visitors](https://visitor-badge.glitch.me/badge?page_id=ManJiis.readme)
 
-<!---
-![visitors](http://antzuhl.cn:4000/get/@ManJiis.readme)
---->
 
 <img align="right" alt="hello world" width="300" height="300" src="helloworld.gif" />
+
+---
 
 - 👋 Hi, I’m @ManJiis
 - 👀 Java developer from Shenzhen, China.
@@ -19,8 +18,11 @@
 <!---
 [![ManJiis's github info](https://github-readme-stats.vercel.app/api?username=ManJiis&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
 --->
+
 <!--- 主题 &theme=radical --->
 [![ManJi's github stats](https://github-readme-stats.vercel.app/api?username=ManJiis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+---
 
 <!---
 <h4 align="left">Tech Stack and Tools:</h4>
@@ -42,6 +44,8 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40"/> </a>
 </p>
+
+---
 
 #### 🎮 Gaming
 
