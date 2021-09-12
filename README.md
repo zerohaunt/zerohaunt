@@ -45,8 +45,4 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40"/> </a>
 </p>
 
----
 
-#### 🎮 Gaming
-
-   **TODO.....**
