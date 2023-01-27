@@ -1,6 +1,6 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![wulilinghan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wulilinghan&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
+[![wulilinghan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wulilinghan&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
