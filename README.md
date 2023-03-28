@@ -1,26 +1,13 @@
-<!--   GitHub stats graph -->
-<!-- 
-### 📈 GitHub Activity Graph:
-[![wulilinghan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wulilh&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
- -->
- 
-<!-- 
-| .        | .                |
-|------------------------|----------------------------------|
-| ![wulilinghan's github stats](https://github-readme-stats.vercel.app/api?username=wulilh&show_icons=true&theme=radical&include_all_commits=true) | ![wulilh's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wulilh&theme=radical&layout=compact) |
- -->
- 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=wulilh"></img> -->
+*   🌍  I'm based in Shengzhen
+*   ✉️  You can contact me at [donlinghan@gmail.com](mailto:donlinghan@gmail.com)
 
-###  ✨✨✨
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=wulilh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulilh&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+### Skills 
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+</p>
 
-<!-- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wulilh/wulilh/main/profile-3d-contrib/profile-night-green.svg">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/wulilh/wulilh/main/profile-3d-contrib/profile-green-animate.svg">
-</picture>
- -->
- 
-<!-- ### Visitors -->
-<!-- ![Visitor Count](https://profile-counter.glitch.me/wulilh/count.svg) -->
+<b>My GitHub Stats</b>
+<a href="http://www.github.com/wulilh"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=wulilh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
