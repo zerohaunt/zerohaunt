@@ -1,5 +1,5 @@
 *   🌍  I'm based in Shengzhen
-*   ✉️  You can contact me at [donlinghan@gmail.com](mailto:donlinghan@gmail.com)
+*   ✉️  You can contact me at [wuliling@qq.com](mailto:wuliling@qq.com)
 
 ### Skills 
 <p align="left">
